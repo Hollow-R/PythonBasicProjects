@@ -1,3 +1,5 @@
+#Classic random password maker
+
 import string
 from random import *
 
