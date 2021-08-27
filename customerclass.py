@@ -1,3 +1,5 @@
+#First time trying class thing
+
 name = input("Name :")
 surname = input("Surname :")
 balance = int(input("Balance :"))
