@@ -1,7 +1,3 @@
-Hi, Im Hollow-R.
+Some basic python projects for starters
 
-A normal student with some interest in coding.
-
-You can look and comment my codes/projects.
-
-Well... That's all.
+Yeah, I am a starter as well ...
